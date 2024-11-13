@@ -1,5 +1,6 @@
 # Time Tracker Application
 
+
 This application is a Time Tracking System designed to manage employee attendance and work hours. It is built using PHP Desktop and SQLite for data management. The system includes both an administrator dashboard and employee interface, with functionalities for authentication, user management, and reporting. The application also focuses on security to ensure data privacy and integrity.
 
 ## Features
@@ -83,3 +84,24 @@ The database manages data related to employee information, work hours, and authe
 . Enhanced reporting features with additional filtering options.
 . Integration with a cloud database for distributed data access.
 . Expanded security with multi-factor authentication.
+
+## some images of the project
+![image](https://github.com/user-attachments/assets/af714bd3-43b4-4d11-ba6b-43a3149ea1c5)
+
+![image](https://github.com/user-attachments/assets/3b44c194-9490-4395-949a-9c5a839e3f70)
+
+![image](https://github.com/user-attachments/assets/368ec35f-26e2-4dc3-b15b-5e22b7566a25)
+
+![image](https://github.com/user-attachments/assets/36a3b0e3-794a-4c7f-b25b-64e410910720)
+
+![image](https://github.com/user-attachments/assets/03811280-2b25-4e85-91b9-0443000c36e5)
+
+![image](https://github.com/user-attachments/assets/afa1c46a-7978-4336-a6d3-2b4c52ab1f23)
+![image](https://github.com/user-attachments/assets/02e4eef2-610b-4ebe-be1a-eb4e93418d1f)
+
+
+![image](https://github.com/user-attachments/assets/4fe83292-856d-4bef-aa57-42c7716e2f1a)
+
+
+
+
